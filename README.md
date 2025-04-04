@@ -74,8 +74,8 @@ pip install tensorflow pandas scikit-learn matplotlib kagglehub
    - Used 20% of training data for validation  
 
 4. **Performance**  
-   - Final Test MAE: ~0.49  
-   - Final Test Loss (MSE): ~0.59  
+   - Final Test MAE: ~0.54  
+   - Final Test Loss (MSE): ~0.70  
    - Plotted Training vs Validation curves for both MAE and Loss  
 
 5. **Visualization**  
@@ -85,9 +85,10 @@ pip install tensorflow pandas scikit-learn matplotlib kagglehub
 
 | Actual Price | Predicted Price |
 |--------------|------------------|
-| 0.35         | 0.29             |
-| 10.11        | 10.59            |
-| 4.95         | 5.34             |
-| 0.15         | 0.08             |
-| 6.95         | 7.40             |
+| 0.35         | 0.353            |
+| 10.11        | 10.76            |
+| 4.95         | 5.67             |
+| 0.15         | 0.15             |
+| 6.95         | 7.44             |
+
 
